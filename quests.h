@@ -1,0 +1,1 @@
+int currentQuests[3] = {"","*","*"};
